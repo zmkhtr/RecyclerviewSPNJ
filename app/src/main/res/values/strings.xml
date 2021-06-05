@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclerviewSPNJ</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_desc">Movie Description</string>
+    <string name="image_description">Movie Poster</string>
+</resources>
